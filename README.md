@@ -50,4 +50,4 @@ Motociclista por paixão.
 ## 📫 Como me encontrar  
 - LinkedIn: [Ollyver Ottoboni](https://www.linkedin.com/in/full-stack-developer-ollyver-ottoboni/)  
 - Site: [Portfolio Ollyver Ottoboni](https://ottobonidesign.com.br/)  
-- E-mail: ollyver.ottoboni@gmail.com
+- E-mail: ollyverottoboni@gmail.com
